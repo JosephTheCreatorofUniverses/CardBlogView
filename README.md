@@ -1,0 +1,2 @@
+# CardBlogView
+Cartao pre visualização
